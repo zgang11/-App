@@ -1,0 +1,6 @@
+# -App
+如何打开饿了么App
+1.下载项目文件夹sell
+2.打开cmd  进入到项目文件夹sell
+3.输入命令 npm run dve
+4.打开浏览器输入localhost：8080 
